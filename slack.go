@@ -7,4 +7,5 @@ type SlackConfig struct {
 	WebhookURL    string
 	Username      string
 	Password      string
+	IsNull        bool
 }
